@@ -27,7 +27,7 @@ p{
     text-align:center;
     animation-delay:2s;
     animation-direction:reverse;
-    animation-iteration-count:4;
+    animation-iteration-count:infinite;
     transition-timing-function:ease-in; 
 }
 
